@@ -1,0 +1,6 @@
+0,	speed;
+1,	wave;
+2,	low;
+3,	high;
+4,	target;
+

@@ -1,0 +1,13 @@
+1, scanToggle	red;
+2, scanIntervalFader	red;
+3, scanFadeFader	red;
+4, scanDriftFader	red;
+5, scanTimeMatchToggle	red;
+6, scanTimeMatchFader	red;
+7, savePresetPush	red;
+8, slotNumberEncoder	red;
+9, slotNumberLabel	red;
+10, slotFreqLabel	red;
+11, slotFreqModeLabel	red;
+12, slotTimeLabel	red;
+13, recallPresetPush	red;

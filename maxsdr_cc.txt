@@ -1,0 +1,25 @@
+1,	AFGain	-70	6	0;
+2,	AGCThresholdSlider	0	100	0;
+3,	LPF1CutoffFreqSlider	1	128	0;
+4,	LPF1QSlider	0	1	0;
+24,	lpf1FreqShiftSlider 0	128 0;
+5,	LPF2CutoffFreqSlider	1	10000	0;
+6,	RFGain	-70	6	0;
+7,	deviceTuningCoarseSlider	0	128	0;
+8,	deviceTuningDataEntryFloat	0	1700	0;
+9,	deviceTuningFineSlider	0	128	0;
+10,	fineTuningSlider	0	128	0;
+11,	humFilterWidthSlider	0	5	0;
+12,	inputSelectMenu	0	10	0;
+13,	mainTuningSlider	0	128	0;
+14,	modeSelectRadiogroup	0	3	0;
+15,	noiseFilterLevelSlider	0	64	0;
+16,	notchFilter1FreqSlider	1	6000	0;
+17,	notchFilter1WidthSlider	0	5	0;
+18,	tuningStepNumber 8	0	0;
+19,	deviceFreqEncoder 0	1	1;
+20,	preampRadiogroup	7	0	0;
+21,	scopeRangeSlider	0	25	0;
+22,	noiseFilter2LevelSlider	0	64	0;
+23,	pstoragePresetNumber	0	127	0;
+

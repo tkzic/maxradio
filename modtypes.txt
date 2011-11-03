@@ -1,0 +1,5 @@
+0,	cosine;
+1,	hypcos;
+2,	square;
+3,	random;
+4,	drunk;

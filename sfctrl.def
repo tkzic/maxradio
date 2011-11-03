@@ -1,0 +1,4 @@
+LIBRARY sfctrl.mxe
+
+EXPORTS
+	main

@@ -1,0 +1,33 @@
+1, fineTuningFader	gray;
+2, freqLabel 	red;
+3, deviceTuningEncoder 	gray;
+4, tuningStepDownPush	gray;
+5, tuningStepLabel	gray;
+6, tuningStepUpPush	gray;
+7, lpf2Fader	gray;
+8, humFilterFader	gray;
+9, lpf1Xy gray;
+10, noiseFilterXy	gray;
+11, notchFilter1Xy gray;
+12, notchFilter2Xy gray;
+13, spareToggle2 gray;
+14, humFilterToggle	gray;
+15, notchFilter1Toggle	red;
+16, notchFilter2Toggle	red;
+17, agcThresholdFader	gray;
+18, agcToggle	gray;
+19, masterResetPush	green;
+20, preampAutoLevelToggle	gray;
+21, preampDownPush	gray;
+22, preampLabel	green;
+23, preampUpPush	gray;
+24, rfGainFader	gray;
+25, rfGainMeterFader	green;
+26, afGainFader	gray;
+27, afGainMeterFader	green;
+28, scopeMultifader	green;
+29, scopeLevelFader	gray;
+30, mainTuningFader	gray;
+31, iqFlipToggle	gray;
+
+	

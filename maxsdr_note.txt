@@ -1,0 +1,21 @@
+1,	AGCToggle 1;
+9,	IQFlipToggle 1;
+7,	autoLevelToggle 1;
+5,	deviceTuningArrowKeysToggle 1;
+6,	deviceTuningUHFToggle 1;
+21,	fineTuningResetButton 0;
+8,	humFilterToggle 1;
+20,	mainTuningResetButton 0;
+10,	notchFilter1Toggle 1;
+22,	peakToggle	1;
+11,	noiseFilterTypeToggle 1;
+12,	testNoiseToggle 1;
+13,	tuningStepDownButton 0;
+14,	tuningStepUpButton 0;
+15,	freqChangeDownButton 0;
+16,	freqChangeUpButton 0;
+33, 	pstorageStoreNextButton	0;
+41,	pstorageRecallButton	0;
+60,	pstorageMasterResetButton	0;
+4,	pstorageSaveButton	0;
+
