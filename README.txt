@@ -27,10 +27,10 @@ maxsdr5c (for app)
 
 If you can't find that file name look for a newer version, for example, maxsdr5d.
 
-Tutorial patches and documentation are in the tutorial folder. If you move them somewhere else, you'll still need to have the main folder (described above) in your max user filepath - because it contains patches and externals required by the tutorials.
+Tutorial patches and documentation are in the tutorial folder. If you move them somewhere else, you'll still need to have the main folder (described above) in your max user filepath - because the main folder contains patches and externals required by the tutorials.
 -----
 
-I would be thrilled to hear from you - and will do  my best to help solve any problems. Send email to radio@zerokidz.com
+Problems? Questions. Send email to radio@zerokidz.com
 
 tom zicarelli
 
