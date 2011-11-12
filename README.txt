@@ -3,13 +3,14 @@ November 11, 2011
 ------------------------------------
 version: maxsdr5c
 ------------------------------------
-This program is available in 3 forms:
+This program is available in several forms:
 
 1) all files - maxsdr5 folder (this is the only way to run in Windows)
 2) max/msp collective (Mac OS) - maxsdr5_collective folder
 3) standalone app (Mac OS) - maxsdr5_app folder
+4) git repository - same as 1
 
-I strongly recommend option 1). You'll greatly increase your chances for success. 
+I strongly recommend option 1) or 4). You'll greatly increase your chances for success. 
 
 These instructions apply to all versions:
 
@@ -30,7 +31,13 @@ maxsdr5c (for app)
 If you can't find that file name look for a newer version, for example, maxsdr5d.
 
 Tutorial patches and documentation are in the tutorial folder. If you move them somewhere else, you'll still need to have the main folder (described above) in your max user filepath - because the main folder contains patches and externals required by the tutorials.
------
+-------------------------------------------------------------------
+known issues:
+-------------------------------------------------------------------
+Loud buzzing occurs sometimes the first time you toggle audio on - This happens on macbook pro.  If it does happen, it may swamp the agc and filters - leaving you wondering why nothing works.  just close the patch and reload it.
+
+soft66lc2 libraries missing: see below for solution.
+
 
 Here are the instructions for installing Soft66lc2 library files. If the Soft66lc2 isn't working please read this first.
 ----------------------------------------------
