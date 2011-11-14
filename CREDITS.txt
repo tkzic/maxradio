@@ -1,0 +1,14 @@
+CREDITS.txt
+
+This project was derived from the works of many amazing developers - and I am very grateful for their efforts.
+
+Kazunori Miura, JA7TDO - hardware and software design of soft66lc2
+Thomas Horsten - Linux soft66add control software
+Thomas Robin-Couerrier - ppc Max externals, libraries, & testing
+Howard Long, G6LVB - hardware and software design of FUNCube
+Alexandru Csete, OZ9AEC - QTHid FUNCube control software
+Mario Lorenz, DL5MLO - FUNCube control software
+David Pello, EA1IDZ - Linux FUNCube command line control software.
+Joseph Zicarelli, KB1URI - design, technical advice, and testing.
+
+Thank you. Tom Zicarelli, KA1IS, November 14, 2011

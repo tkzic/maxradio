@@ -16,6 +16,6 @@
 16,	freqChangeUpButton 0;
 33, 	pstorageStoreNextButton	0;
 41,	pstorageRecallButton	0;
-60,	pstorageMasterResetButton	0;
+60,	audioToggle	0;
 4,	pstorageSaveButton	0;
 

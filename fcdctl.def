@@ -1,4 +1,0 @@
-LIBRARY fcdctl.mxe
-
-EXPORTS
-	main

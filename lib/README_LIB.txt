@@ -1,6 +1,7 @@
 Soft66lc2 library files for max radio project:
 ----------------------------------------------
-
+MacOS (For Windows see below)
+----------------------------------------------
 Several dynamic library files are required for the Soft66lc2 device control external object to load properly in Max/MSP.  If the Max radio patch loads and runs without errors, your computer already has the necessary library files installed. You can safely ignore these instructions.
 
 On the other hand… if you load the max radio patch and see error messages in the Max window something like:
@@ -13,14 +14,17 @@ On the other hand… if you load the max radio patch and see error messages in t
 
 Then you've come to the right place. 
 
-First - If your computer has the PPC (PowerPC) chipset - We don't currently have libraries available. We're working on this. Sorry. If your computer is Intel 32 or 64 bit, then you'll need to install libftdi on your computer. Libftdi is a library of USB drivers required by the Max external. There are two ways to get it. 
+First - If your computer has the PPC (PowerPC) chipset there is now hope! The ppc/ folder has libraries, a special max external object and some instructions in ppc/READMEppc.txt,  Read the instructions and then come back here...
+
+ 
+If your computer is Intel 32 or 64 bit, then you'll need to install libftdi on your computer. Libftdi is a library of USB drivers required by the Max external. There are two ways to get it. 
 
 1) (the hard way) Install libraries by downloading and compiling source. Use instructions in this link:
 
 	http://geckodownloads.googlecode.com/files/libftdimacosx.pdf
 
 
-2) (the easy way) Just copy the library files from the maxsdr5/lib folder to the correct location on your computer using the instructions below.
+2) (the easy way) Just copy the library files from the maxsdr5/lib folder to the correct location on your computer using the instructions below. These libraries are 'fat' binaries and will work on both 32 & 64 bit architectures.
 
 ----------------------------------------------------------
 Instructions for copying libftdi library files:
@@ -50,11 +54,20 @@ If the response is: "No such file or directory" then create it by typing:
 
 4. Now quit terminal. Return to Max/MSP and reload maxsdr5c.maxpat   
 
-If this doesn't work - please send email to radio@zerokidz.com
-
 -------------
+Windows (32 bit)
+-------------
+If you're using the soft66lc2 in Windows, you'll need to copy the ft2dxx.dll file from the lib/ folder to either one of two places:
 
-Note: These library files are universal (fat) binaries for intel 32 bit and 64 bit architectures.  PPC versions are coming soon…
+	c:\windows\system32\
 
+or	c:\ProgramFiles\Cycling'74\Max5.0\
+
+The system may give you warnings about privileges - please ignore them and forge on through.
+
+If you're running 64 bit Windows - please get in touch with me and I will try to come up with a new Max external. 
+
+------------------------
+If any of this doesn't work - or you have great ideas - please send email to radio@zerokidz.com
 
  

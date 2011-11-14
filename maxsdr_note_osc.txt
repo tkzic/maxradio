@@ -6,7 +6,7 @@ preampAutoLevelToggle,	autoLevelToggle 1;
 6,	deviceTuningUHFToggle 1;
 fineTuningResetPush,	fineTuningResetButton 0;
 humFilterToggle,	humFilterToggle 1;
-masterResetPush,	pstorageMasterResetButton 0;
+audioToggle,	audioToggle 1;
 notchFilter1Toggle,	notchFilter1Toggle 1;
 peakToggle,		peakToggle	1;
 noiseFilterTypeToggle,	noiseFilterTypeToggle 1;

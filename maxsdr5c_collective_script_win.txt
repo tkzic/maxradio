@@ -1,0 +1,25 @@
+open thispatcher
+
+include c:/maxsdr5/6meter96.wav
+include c:/maxsdr5/10meter96.wav
+include c:/maxsdr5/am96.wav
+include c:/maxsdr5/ao4096.wav
+
+include c:/maxsdr5/fmWeather96b.wav
+
+include c:/maxsdr5/freqtable.txt
+include c:/maxsdr5/ingate.txt
+include c:/maxsdr5/maxsdr_cc_osc.txt
+include c:/maxsdr5/maxsdr_cc.txt
+include c:/maxsdr5/maxsdr_note_osc.txt
+include c:/maxsdr5/maxsdr_note.txt
+include c:/maxsdr5/modtypes.txt
+include c:/maxsdr5/modulators.maxpresets
+include c:/maxsdr5/modulators.txt
+include c:/maxsdr5/numbers96.wav
+include c:/maxsdr5/panel3.js
+include c:/maxsdr5/presets.json
+include c:/maxsdr5/touchOSC_colors.txt
+include c:/maxsdr5/touchOSC_main_colors.txt
+include c:/maxsdr5/touchOSC_mem_colors.txt
+
