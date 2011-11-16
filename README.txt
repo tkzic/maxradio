@@ -1,5 +1,5 @@
 README.txt for Max/MSP radio project
-November 15, 2011
+November 16, 2011
 http://zerokidz.com/radio
 ------------------------------------
 Latest test reports:
@@ -17,12 +17,12 @@ version: maxsdr5c (Mac OS & Windows)
 This project is available in several forms:
 
 1) all files including documentation & tutorials
-2) max/msp collective (Mac OS) - 
-3) max/msp collective (Windows) - 
-4) standalone app (Mac OS) - 
-5) git repository - same as 1
+2) max/msp collective (Mac OS) - (separate versions for Max5 and Max6) 
+3) max/msp collective (Windows) - (separate versions for Max5 and Max6)
 
-I strongly recommend option 1) or 5). You'll greatly increase your chances for success. 
+4) git repository - same as 1
+
+I strongly recommend option 1) or 4). You'll greatly increase your chances for success. 
 
 These instructions apply to all versions:
 
@@ -42,9 +42,8 @@ http://zerokidz.com/radio
 
 6) The name of the file to run is:
 
-maxsdr5c.maxpat (for full version)
-maxsdr5c.mxf (for collective)
-maxsdr5c (for app)
+	maxsdr5c.maxpat (for full version)
+	maxsdr5c.mxf (for collective)
 
 If you can't find that file name look for a newer version with a higher letter of
  the alphabet, for example, maxsdr5d.
@@ -61,19 +60,26 @@ required by the tutorials.
 -------------------------------------------------------------------
 known issues:
 -------------------------------------------------------------------
--Loud buzzing occurs sometimes the first time you toggle audio on - This has happened
-on the macbook pro.  If it does happen, it may swamp the AGC and filters - leaving
+-If you are using the collective version - Make sure to download the version that
+matches your version of Max/MSP. The Max5 collectives only work in Max5. The Max6 
+collectives only work in Max6.
+
+-The standalone Mac OS app version was not finding audio devices properly so is 
+not currently available.
+
+- Sometimes loud buzzing occurs when you first toggle audio on - This has happened
+on the Macbook Pro.  If it does happen, it may swamp the AGC and filters - leaving
 you wondering why nothing works. Just close the patch and reload it.
 
-- Problems running FUNCube and Soft66lc2 at the same time. Switching back
-and forth from within Max seems to cause problems. Workaround: Run the 
+- There are problems with running FUNCube and Soft66lc2 at the same time. Switching
+from one device to the other seems to make the Soft66lc2 stop working. Workaround: Run the 
 devices separately.
 
 - If setting frequency on either device just stops working. Or you get error 
 messages in the Max window whenever you change frequency - try reloading the patch
 or restarting Max.
 
-- Sometimes left/right arrow keys (to change frequency) don't work. This happens when
+- Sometimes the left/right arrow keys (to change frequency) don't work. This happens when
 you click on an object, like a gain slider, that takes control of the arrow keys
 for its own personal use. Workaround: click anywhere in the whitespace of the patch.
 Then try the arrow keys again. We're working on an alternative…  
@@ -81,7 +87,7 @@ Then try the arrow keys again. We're working on an alternative…
 - Please read the user manual - maxsdr5b.pdf. You can access it online or from the 
 maxsdr5/doc/ folder.
 
--missing soft66lc2 libraries: (see below for solution). 
+- Missing soft66lc2 libraries: (see below for solution). 
 --------------------------------------------------------------------
 --------------------------------------------------------------------
 Here are the instructions for installing Soft66lc2 library files. If the
