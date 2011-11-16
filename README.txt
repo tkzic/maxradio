@@ -30,10 +30,11 @@ These instructions apply to all versions:
 that's convenient. For example, maxradio or maxsdr5. In this document we'll call it the 
 maxsdr5 folder.
 2) Add the folder to the Max/MSP user filepath. From the Options : File Preferences menu,
-by clicking the '+' in the lower left corner of the File Preferences window, and clicking
+click the '+' in the lower left corner of the File Preferences window, and click
 the 'choose' button to browse to the folder.
 
-3) Check online documentation for help on how to use the program http://zerokidz/radio
+3) Check online documentation for help on how to use the program 
+http://zerokidz.com/radio
 
 4) FUNCube needs to be plugged in before launching Max
 
@@ -62,28 +63,27 @@ known issues:
 -------------------------------------------------------------------
 -Loud buzzing occurs sometimes the first time you toggle audio on - This has happened
 on the macbook pro.  If it does happen, it may swamp the AGC and filters - leaving
-you wondering why nothing works.  just close the patch and reload it.
+you wondering why nothing works. Just close the patch and reload it.
 
 - Problems running FUNCube and Soft66lc2 at the same time. Switching back
 and forth from within Max seems to cause problems. Workaround: Run the 
 devices separately.
 
-- If tuning on either device just stops working. Or you get error messages in 
-the Max window whenever you change frequency - try reloading the patch
+- If setting frequency on either device just stops working. Or you get error 
+messages in the Max window whenever you change frequency - try reloading the patch
 or restarting Max.
 
-- left/right arrow keys (to change frequency) don't work. This happens when
-you click on an object, like a gain slider, that takes control of the 
-arrow keys for its own personal use. Workaround: click anywhere in the 
-whitespace of the patch. Then try the arrow keys again. We're working on
-an alternative…  
+- Sometimes left/right arrow keys (to change frequency) don't work. This happens when
+you click on an object, like a gain slider, that takes control of the arrow keys
+for its own personal use. Workaround: click anywhere in the whitespace of the patch.
+Then try the arrow keys again. We're working on an alternative…  
 
-- Please read the user manual - maxsdr5b.pdf. You can access online or from the doc/
-folder.
+- Please read the user manual - maxsdr5b.pdf. You can access it online or from the 
+maxsdr5/doc/ folder.
 
--soft66lc2 libraries missing: (see below for solution). 
+-missing soft66lc2 libraries: (see below for solution). 
 --------------------------------------------------------------------
-
+--------------------------------------------------------------------
 Here are the instructions for installing Soft66lc2 library files. If the
 Soft66lc2 isn't working please read this first.
 ----------------------------------------------
@@ -160,21 +160,20 @@ folder - otherwise substitute correct folder location for "maxsdr5/lib")
 Windows 
 -------------
 If you're using the soft66lc2 in Windows, you'll need to copy the ft2dxx.dll file from
-the lib/ folder to either one of two places:
+the lib/ folder to the folder containing the Max program:
 
 	c:\ProgramFiles\Cycling'74\Max5.0\   (for Max5)
 	c:\ProgramFiles\Cycling'74\Max6.0\ 	(for Max6)
 
 Alternatively You could copy it to the Windows\system32 or 
-Windows\system64 directory.
+Windows\system64 directory. But I'm not sure why you would want to do that.
 
 The system may give you warnings about privileges - please ignore them and forge on through.
------------------------------------------------------
+-------------------------------------------------------------------------------------------
 Problems? Questions? Ideas? Interested in developing?  Send email to radio@zerokidz.com
 
 Tom Zicarelli, KA1IS
-
------------------------------------------------------
+--------------------------------------------------------------------------------------------
 This project was derived from the works of the following developers.
 
 Kazunori Miura, JA7TDO - hardware and software design of soft66lc2
