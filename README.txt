@@ -49,8 +49,8 @@ required by the tutorials.
 -------------------------------------------------------------------
 known issues:
 -------------------------------------------------------------------
-- Please read the user manual - maxsdr5b.pdf. Access it online:
-http://zerokidz.com/radio/docs/maxsdr5b.pdf
+- Please read the user manual - maxsdr5.pdf. Access it online:
+http://zerokidz.com/radio/docs/maxsdr5.pdf
 Or from the maxsdr5/docs/ folder. Its getting better all the time…
 
 - There are problems with running FUNCube and Soft66lc2 at the same time. Switching
