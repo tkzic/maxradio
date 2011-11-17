@@ -1,5 +1,5 @@
 README.txt for Max/MSP radio project
-November 16, 2011
+November 17, 2011
 http://zerokidz.com/radio
 email: radio@zerokidz.com
 ------------------------------------
@@ -18,12 +18,12 @@ version: maxsdr5c (Mac OS & Windows)
 This project is available as a zipped archive file (.zip)
 
 1) Unzip the the downloaded file. It will be a folder. Feel free to rename the folder to 
-something more convenient. For example, maxradio or maxsdr5. In this document we'll call
+something more convenient. For example, maxsdr5. In this document we'll call
 it the maxsdr5 folder.
 
-2) Add the folder to the Max/MSP user filepath. From the Options : File Preferences menu,
-click the '+' in the lower left corner of the File Preferences window, and click
-the 'choose' button to browse to the folder.
+2) Note: If you are using the Runtime version of Max you can now change audio settings
+by double-clicking the green "audioSettings" object in the lower right corner of the 
+screen, next to the "audio on/off" button. 
 
 3) Check online documentation for help on how to use the program 
 http://zerokidz.com/radio
@@ -32,7 +32,8 @@ http://zerokidz.com/radio
 to be plugged in or running before launching Max - otherwise Max won't find them.
 
 5) Sample rate should be set to 96k or higher for best audio quality and bandwidth. 
-From the Max toolbar menu, select: Options : Dsp Status (Audio Status in Max6).
+(double-click the green "audioSettings" object in the lower right corner of the 
+screen, next to the "audio on/off" button). 
 
 6) The name of the file to run is:
 
@@ -68,20 +69,21 @@ you wondering why nothing works. Just close the patch and reload it.
 - If you hear crackling that isn't radio noise, or periodic buzzing (comb filtering)
 especially in FM mode, increase the signal vector size in Options : DSP Status 
 (Audio Status in Max6).  Try values of 512, 1024, or 2048 until the problem goes
-away or gets less annoying. I use 512 on a MacBook Pro.
+away or gets less annoying. I use 512 on a MacBook Pro. Note: You can also 
+change audio settings by double-clicking the green audioSettings object (lower right
+corner)
 
 - Sometimes the left/right arrow keys (to change frequency) don't work. This happens when
 you click on an object, like a gain slider, that takes control of the arrow keys
 for its own personal use. Workaround: click anywhere in the whitespace of the patch.
 Then try the arrow keys again. We're working on an alternative…  
 
-- Collective and standalone versions are no longer being distributed, but you can
+- Collective and standalone versions are temporarily unavailable, but you can
 make your own collectives using the supplied scripts: maxsdr5c_collective_script.txt
 (Mac OS) and maxsdr_collective_script_win.txt (Windows). Copy the file: presets.json
-to the folder where you're running the collective.
+to the folder where you're running the collective. Hopefully the collectives will
+return soon!
 
--The standalone Mac OS app version was not finding audio devices properly so is 
-not currently available.
 
 - Missing soft66lc2 libraries: (see below for solution). 
 --------------------------------------------------------------------
