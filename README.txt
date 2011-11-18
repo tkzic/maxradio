@@ -1,4 +1,4 @@
-README.txt for Max/MSP radio project
+README.txt for Max/MSP radio project and tutorials
 November 17, 2011
 http://zerokidz.com/radio
 email: radio@zerokidz.com
@@ -17,9 +17,15 @@ version: maxsdr5c (Mac OS & Windows)
 ------------------------------------
 This project is available as a zipped archive file (.zip)
 
-1) Unzip the the downloaded file. It will be a folder. Feel free to rename the folder to 
-something more convenient. For example, maxsdr5. In this document we'll call
+1) Unzip the the downloaded file (folder). Feel free to rename the folder to 
+something more convenient. For example: maxsdr5. In this document we'll call
 it the maxsdr5 folder.
+
+NOTE: tutorial patches are now in the maxsdr5 folder. Tutorial documents are in the 
+maxsdr5/docs/ folder. Or… you can download tutorials separately using the
+tutorials link at http://zerokidz.com/radio. If you download them separately, everything
+you need to run the tutorials is in that one folder, including drivers, libraries, etc.,
+Tutorials should work with the runtime version. 
 
 2) Note: If you are using the Runtime version of Max you can now change audio settings
 by double-clicking the green "audioSettings" object in the lower right corner of the 
@@ -28,7 +34,7 @@ screen, next to the "audio on/off" button.
 3) Check online documentation for help on how to use the program 
 http://zerokidz.com/radio
 
-4) The FUNCube, and any other audio devices, or virtual audio devices, need
+4) The FUNCube, and any other audio devices, and virtual audio devices, need
 to be plugged in or running before launching Max - otherwise Max won't find them.
 
 5) Sample rate should be set to 96k or higher for best audio quality and bandwidth. 
