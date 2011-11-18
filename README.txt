@@ -48,6 +48,10 @@ screen, next to the "audio on/off" button).
 If you can't find that file look for a newer version with a higher letter of
  the alphabet, for example, maxsdr5d.maxpat
 
+NOTE: The very first time you run this patch in Windows you may get a warning 
+about the Firewall. Max uses ports 7400 and 7402 are used for communication with
+touchOSC over your local/wireless network.
+
 ------------------------------------------------------------------
 Tutorial patches and documentation are in the tutorial folder. If you move them
 somewhere else, you'll still need to have the maxsdr5 folder (described above) in
@@ -67,6 +71,10 @@ devices separately.
 - If setting frequency on either device just stops working. Or you get error 
 messages in the Max window whenever you change frequency - try reloading the patch
 or restarting Max.
+
+- The FUNCube needs firmware 18f (18.06) or greater to work with this program.
+We use the same drivers as QTHid. Firmware updates are available at the FUNCube 
+website.
 
 - Sometimes loud buzzing occurs when you first toggle audio on - This has happened
 on the Macbook Pro.  If it does happen, it may swamp the AGC and filters - leaving
