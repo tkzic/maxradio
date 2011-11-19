@@ -1,5 +1,5 @@
 README.txt for Max/MSP radio project and tutorials
-November 17, 2011
+November 19, 2011
 http://zerokidz.com/radio
 email: radio@zerokidz.com
 ------------------------------------
@@ -49,8 +49,8 @@ If you can't find that file look for a newer version with a higher letter of
  the alphabet, for example, maxsdr5d.maxpat
 
 NOTE: The very first time you run this patch in Windows you may get a warning 
-about the Firewall. Max uses ports 7400 and 7402 are used for communication with
-touchOSC over your local/wireless network.
+about the Firewall. Max uses ports 7400 (receive from touchOSC) and 7402 (send
+to touchOSC) are used for communication with touchOSC over your local/wireless network.
 
 ------------------------------------------------------------------
 Tutorial patches and documentation are in the tutorial folder. If you move them
@@ -63,6 +63,11 @@ known issues:
 - Please read the user manual - maxsdr5.pdf. Access it online:
 http://zerokidz.com/radio/docs/maxsdr5.pdf
 Or from the maxsdr5/docs/ folder. Its getting better all the time…
+
+- Occasional audio problems have been observed with Max6 - including 
+crackling, high CPU usage, or no audio at all. If this happens, try 
+restarting Max. If nothing else works you may want to consider using Max5 until 
+Max6 becomes more stable.
 
 - There are problems with running FUNCube and Soft66lc2 at the same time. Switching
 from one device to the other seems to make the Soft66lc2 stop working. Workaround: Run the 
