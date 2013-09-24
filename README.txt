@@ -1,8 +1,14 @@
 README.txt for Max/MSP radio project and tutorials
-November 19, 2011
+September 24, 2013
 http://zerokidz.com/radio
-email: radio@zerokidz.com
+email: tkzic@megalink.net
 ------------------------------------
+Just a quick update:
+I have not been able to update the archive recently. But there are minor bug fixes coming.
+And a driver for the FCDPRO+ for Mac. Although I can't recommend FCDPRO+ due to audio sync
+issues. email me if you have questions. tz
+--------------------------------------
+
 Latest test reports:
 
 Max5 - ok
@@ -126,7 +132,8 @@ window something like:
  	2011-11-11 15:51:06.328 MaxMSP[25680:507] Error loading /Users/tkzic/maxsdr5/sfctrl.mxo/Contents/MacOS/sfctrl:
 	dlopen(/Users/tkzic/maxsdr5/sfctrl.mxo/Contents/MacOS/sfctrl, 262):
 	Library not loaded: /usr/local/lib/libftdi.1.dylib
-	Referenced from: /Users/tkzic/maxsdr5/sfctrl.mxo/Contents/MacOS/sfctrl	Reason: image not found
+	Referenced from: /Users/tkzic/maxsdr5/sfctrl.mxo/Contents/MacOS/sfctrl
+	Reason: image not found
 
 Then you've come to the right place. 
 
