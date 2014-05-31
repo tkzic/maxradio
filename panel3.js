@@ -81,9 +81,9 @@ function blob(  ulx, uly, lengthx, lengthy, orient, step, lo, hi, scale, ctype, 
 
 }
 
-var maxblobs = 40;
+var MAXBLOBS = 34;
 
-var blobarray = new Array(maxblobs);
+var blobarray = new Array(MAXBLOBS);
 
 // row 1 blobs
 
@@ -183,10 +183,10 @@ function modulatorDestination( x, y, source )
 
 //  
 //
-var maxmd = 27;		// actual amount of md's used
+var MAXMD = 27;		// actual amount of md's used
 
-var md = new Array(maxmd);
-for(i=0;i<maxmd;i++)
+var md = new Array(MAXMD);
+for(i=0; i< MAXMD; i++)
 	{
 	md[i] = new modulatorDestination( 0,0,0 );   // populate the destinations with nothing
 	}
@@ -311,7 +311,7 @@ function data( name, r, val )
 //  call blob show
 	
 
-	for( i= 0; i< maxblobs; i++ )
+	for( i= 0; i< blobarray.length; i++ )
 		{
 		if((blobarray[i].name == name) && (blobarray[i].radno == r))
 			{
@@ -392,7 +392,7 @@ blobarray[28].val   = 24;
 
 
 
-	for( z = 0; z < maxblobs; z++ )
+	for( z = 0; z < blobarray.length; z++ )
 		{
 		blobshow ( blobarray[z] );
 		}
@@ -663,7 +663,7 @@ function setmd( s, d )
 
 // just need to figure out the indexing issues with 0 and 1
 
-	for (i = 0; i < maxmd; i++ )
+	for (i = 0; i < MAXMD; i++ )
 		{
 		if( md[i].source == s )
 			{
@@ -1101,7 +1101,7 @@ function setcellcolor(x, y, n)
 
 
 //
-// makecells - create matrix of blinky objects
+// makecells - create matrix of LED objects
 //
 function makecells( x, y, color )
 {

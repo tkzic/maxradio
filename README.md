@@ -1,12 +1,36 @@
-README.txt for Max/MSP radio project and tutorials
-September 24, 2013
+README.md 
+maxradio: Max/MSP SDR project and tutorials
+May 31, 2014
 http://zerokidz.com/radio
-email: tkzic@megalink.net
-------------------------------------
-Just a quick update:
+
+#### email: tkzic@megalink.net
+
+----------------------------------
+
+Interim upgrade of Mac OS Max version.
+
+Windows, runtime, standalone, documentation upgrades still in progress...
+
+
+### changes
+
+added new drivers.
+
+driver for rtl-sdr
+minor bug fixes
+
+instructions
+
+Open maxsdr7a.maxpat in Max
+
+#### Previous version of README...
+
+--
+2013: Just a quick update:
 I have not been able to update the archive recently. But there are minor bug fixes coming.
 And a driver for the FCDPRO+ for Mac. Although I can't recommend FCDPRO+ due to audio sync
 issues. email me if you have questions. tz
+
 --------------------------------------
 
 Latest test reports:
@@ -18,17 +42,18 @@ MacOS 10.6 & 10.7 (intel32 & 64bit) - ok
 MacOS 10.6 PPC - ok 
 
 Windows7 (32bit and 64bit) - ok
+
 ------------------------------------
-version: maxsdr5c (Mac OS & Windows)
+version: maxsdr7a (Mac OS & Windows)
+
 ------------------------------------
 This project is available as a zipped archive file (.zip)
 
-1) Unzip the the downloaded file (folder). Feel free to rename the folder to 
-something more convenient. For example: maxsdr5. In this document we'll call
-it the maxsdr5 folder.
 
-NOTE: tutorial patches are now in the maxsdr5 folder. Tutorial documents are in the 
-maxsdr5/docs/ folder. Or… you can download tutorials separately using the
+
+NOTE: tutorial patches are now in the maxradio folder. Tutorial documents are in the 
+
+maxradio/docs/ folder. Or… you can download tutorials separately using the
 tutorials link at http://zerokidz.com/radio. If you download them separately, everything
 you need to run the tutorials is in that one folder, including drivers, libraries, etc.,
 Tutorials should work with the runtime version. 
@@ -49,10 +74,10 @@ screen, next to the "audio on/off" button).
 
 6) The name of the file to run is:
 
-	maxsdr5c.maxpat 
+	maxsdr7a.maxpat 
 	
 If you can't find that file look for a newer version with a higher letter of
- the alphabet, for example, maxsdr5d.maxpat
+ the alphabet, for example, maxsdr7b.maxpat
 
 NOTE: The very first time you run this patch in Windows you may get a warning 
 about the Firewall. Max uses ports 7400 (receive from touchOSC) and 7402 (send
@@ -63,8 +88,10 @@ Tutorial patches and documentation are in the tutorial folder. If you move them
 somewhere else, you'll still need to have the maxsdr5 folder (described above) in
 your max user filepath - because the maxsdr5 folder contains patches and externals
 required by the tutorials.
+
 -------------------------------------------------------------------
 known issues:
+
 -------------------------------------------------------------------
 - Please read the user manual - maxsdr5.pdf. Access it online:
 http://zerokidz.com/radio/docs/maxsdr5.pdf
@@ -110,14 +137,18 @@ to the folder where you're running the collective. Hopefully the collectives wil
 return soon!
 
 
-- Missing soft66lc2 libraries: (see below for solution). 
---------------------------------------------------------------------
---------------------------------------------------------------------
+##### If you are Missing soft66lc2 libraries: (see below for solution).
+
+ 
+-----------------------------
 Here are the instructions for installing Soft66lc2 library files. If the
 Soft66lc2 isn't working please read this first.
+
 ----------------------------------------------
 Soft66lc2 library files for max radio project:
-----------------------------------------------
+----------------------------------
+
+------------
 MacOS (For Windows see below)
 ----------------------------------------------
 Several dynamic library files are required for the Soft66lc2 device control external
@@ -137,10 +168,10 @@ window something like:
 
 Then you've come to the right place. 
 
-First - If your computer has the PPC (PowerPC) chipset there is now hope! The maxsdr5/ppc/ folder
+First - If your computer has the PPC (PowerPC) chipset there is now hope! The maxradio/ppc/ folder
 has libraries, a special max external object - with instructions in maxsdr5/ppc/READMEppc.txt,
 Read the instructions and then come back here using the PPC versions of the library 
-files instead of the ones in the maxsdr5/lib/ folder…
+files instead of the ones in the maxradio/lib/ folder…
 
  
 To get the soft66lc2 running you'll need to install libftdi on your computer.
@@ -199,21 +230,22 @@ Alternatively You could copy it to the Windows\system32 or
 Windows\system64 directory. But I'm not sure why you would want to do that.
 
 The system may give you warnings about privileges - please ignore them and forge on through.
--------------------------------------------------------------------------------------------
-Problems? Questions? Ideas? Interested in developing?  Send email to radio@zerokidz.com
 
-Tom Zicarelli, KA1IS
+-------------------------------------------------------------------------------------------
+Problems? Questions? Ideas? Interested in developing?  Send email to tkzic@megalink.com
+
+#### Tom Zicarelli, KA1IS
 --------------------------------------------------------------------------------------------
 This project was derived from the works of the following developers.
 
-Kazunori Miura, JA7TDO - hardware and software design of soft66lc2
-Thomas Horsten - Linux soft66add control software
-Thomas Robin-Couerrier - ppc Max external software and library conversion & testing
-Howard Long, G6LVB - hardware and software design of FUNCube
-Alexandru Csete, OZ9AEC - QTHid FUNCube control software
-Mario Lorenz, DL5MLO - FUNCube control software
-David Pello, EA1IDZ - Linux FUNCube command line control software.
-Joseph Zicarelli, KB1URI - design, technical advice, and testing.
+* Kazunori Miura, JA7TDO - hardware and software design of soft66lc2
+* Thomas Horsten - Linux soft66add control software
+* Thomas Robin-Couerrier - ppc Max external software and library conversion & testing
+* Howard Long, G6LVB - hardware and software design of FUNCube
+* Alexandru Csete, OZ9AEC - QTHid FUNCube control software
+* Mario Lorenz, DL5MLO - FUNCube control software
+* David Pello, EA1IDZ - Linux FUNCube command line control software.
+* Joseph Zicarelli, KB1URI - design, technical advice, and testing.
 
 Thank you!
 
