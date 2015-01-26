@@ -1,18 +1,24 @@
 README.md 
 maxradio: Max/MSP SDR project and tutorials
-May 31, 2014
+Jan 23, 2015
 http://zerokidz.com/radio
+local: maxradio
 
 #### email: tkzic@megalink.net
 
 ----------------------------------
 
-Interim upgrade of Mac OS Max version.
+(yet another) Interim upgrade of Mac OS Max version.
 
 Windows, runtime, standalone, documentation upgrades still in progress...
 
+### changes 1/23/2015
 
-### changes
+The soft66lc driver in MacOS has been broken since Mavericks. Mac OS is hijacking the device. A temporary fix is described here: [link](http://reactivemusic.net/?p=18273) 
+
+Essentially just unload the apple driver from the command line before running Max: sudo kextunload -bundle com.apple.driver.AppleUSBFTDI
+
+### changes 5/31/2014
 
 added new drivers.
 

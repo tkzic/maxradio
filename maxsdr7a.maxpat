@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 7,
+			"revision" : 9,
 			"architecture" : "x86"
 		}
 ,
@@ -154,7 +154,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -380,7 +380,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -1845,7 +1845,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -2258,7 +2258,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -3218,7 +3218,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -4052,7 +4052,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -5134,7 +5134,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -5466,7 +5466,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -5652,7 +5652,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -6338,7 +6338,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -7074,7 +7074,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -7351,7 +7351,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -8276,7 +8276,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -8893,7 +8893,7 @@
 					"fontname" : "Arial",
 					"fontsize" : 11.595187,
 					"id" : "obj-63",
-					"items" : [ "None", ",", "Built-in Input", ",", "Soundflower (2ch)", ",", "Soundflower (64ch)" ],
+					"items" : [ "Built-in Microphone", ",", "Soundflower (2ch)", ",", "Soundflower (64ch)" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -8931,7 +8931,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -13043,7 +13043,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -13593,7 +13593,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -13708,7 +13708,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -13985,7 +13985,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 9,
 															"architecture" : "x86"
 														}
 ,
@@ -15528,7 +15528,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -17940,7 +17940,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -18277,7 +18277,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -19518,7 +19518,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -21240,7 +21240,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -23923,7 +23923,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -34956,7 +34956,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -35047,11 +35047,11 @@
 									"outlettype" : [ "", "", "", "" ],
 									"patching_rect" : [ 45.0, 142.0, 116.0, 22.0 ],
 									"restore" : 									{
-										"day" : [ 28 ],
-										"hour" : [ 20 ],
-										"minute" : [ 33 ],
-										"month" : [ 4 ],
-										"year" : [ 2014 ]
+										"day" : [ 25 ],
+										"hour" : [ 18 ],
+										"minute" : [ 21 ],
+										"month" : [ 11 ],
+										"year" : [ 2011 ]
 									}
 ,
 									"text" : "autopattr october",
@@ -35614,7 +35614,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -35707,7 +35707,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -36365,7 +36365,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 9,
 															"architecture" : "x86"
 														}
 ,
@@ -36513,7 +36513,7 @@
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 95.0, 342.0, 201.0, 21.0 ],
-																	"text" : "modeSelectMultitoggle/1/1"
+																	"text" : "modeSelectMultitoggle/1/2"
 																}
 
 															}
@@ -40947,7 +40947,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -49030,7 +49030,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -52895,7 +52895,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -53706,7 +53706,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -54092,7 +54092,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -54601,7 +54601,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -55486,7 +55486,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -56316,7 +56316,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -59450,7 +59450,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -60759,7 +60759,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -60964,7 +60964,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -61694,7 +61694,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -62477,7 +62477,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -62580,7 +62580,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 9,
 															"architecture" : "x86"
 														}
 ,
@@ -63861,7 +63861,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 9,
 															"architecture" : "x86"
 														}
 ,
@@ -66178,7 +66178,7 @@
 										"fadeTimeSlider" : [ 4.0 ],
 										"presetCurrentIsmToggle" : [ 1 ],
 										"presetCurrentTimeToggle" : [ 1 ],
-										"presetHourMatchNumber" : [ 20 ],
+										"presetHourMatchNumber" : [ 23 ],
 										"presetIsmMatchNumber" : [ 0 ],
 										"presetIsmMatchToggle" : [ 0 ],
 										"presetSearchButton" : [ 0.0 ],
@@ -66342,7 +66342,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -66586,7 +66586,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 9,
 															"architecture" : "x86"
 														}
 ,
@@ -67686,7 +67686,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -68113,7 +68113,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -69450,7 +69450,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 9,
 															"architecture" : "x86"
 														}
 ,
@@ -72179,7 +72179,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -74256,22 +74256,22 @@
 					"outlettype" : [ "", "", "", "" ],
 					"patching_rect" : [ 586.0, 582.0, 104.0, 33.0 ],
 					"restore" : 					{
-						"AFGain" : [ 0.0 ],
-						"AGCThresholdSlider" : [ 0 ],
-						"AGCToggle" : [ 0.0 ],
+						"AFGain" : [ -14.043955 ],
+						"AGCThresholdSlider" : [ 74 ],
+						"AGCToggle" : [ 1.0 ],
 						"IQFlipToggle" : [ 0.0 ],
 						"IQRecorderToggle" : [ 0.0 ],
-						"LPF1CutoffFreqSlider" : [ 20.32 ],
+						"LPF1CutoffFreqSlider" : [ 76.723 ],
 						"LPF1QSlider" : [ 0.8 ],
-						"LPF2CutoffFreqSlider" : [ 3000.0 ],
+						"LPF2CutoffFreqSlider" : [ 4000.0 ],
 						"OSCIPTextedit" : [ "192.168.1.105" ],
-						"RFGain" : [ 0.0 ],
-						"actualFreqFloat" : [ 0.0 ],
+						"RFGain" : [ -24.065933 ],
+						"actualFreqFloat" : [ 10.010023 ],
 						"audioToggle" : [ 0.0 ],
 						"autoLevelToggle" : [ 0.0 ],
 						"deviceTuningArrowKeysToggle" : [ 1.0 ],
 						"deviceTuningCoarseSlider" : [ 0 ],
-						"deviceTuningDataEntryFloat" : [ 0.0 ],
+						"deviceTuningDataEntryFloat" : [ 10.0 ],
 						"deviceTuningFineSlider" : [ 0 ],
 						"deviceTuningUHFToggle" : [ 0.0 ],
 						"fineTuningResetButton" : [ 0.0 ],
@@ -74279,19 +74279,19 @@
 						"humFilterToggle" : [ 0.0 ],
 						"humFilterWidthSlider" : [ 0.0 ],
 						"inputSelectMenu" : [ 0 ],
-						"lpf1FreqDisplayNumber" : [ 1600 ],
+						"lpf1FreqDisplayNumber" : [ 6000 ],
 						"lpf1FreqShiftSlider" : [ 0.0 ],
 						"mainTuningResetButton" : [ 0.0 ],
-						"mainTuningSlider" : [ 0.0 ],
+						"mainTuningSlider" : [ 93.090912 ],
 						"memoryTagTextedit" : [ "reset" ],
-						"modeSelectRadiogroup" : [ 0 ],
+						"modeSelectRadiogroup" : [ 1 ],
 						"noiseFilterLevelSlider" : [ 0 ],
 						"noiseFilterTypeToggle" : [ 0.0 ],
-						"notchFilter1FreqSlider" : [ 0.0 ],
+						"notchFilter1FreqSlider" : [ 5081.632812 ],
 						"notchFilter1Toggle" : [ 0.0 ],
-						"notchFilter1WidthSlider" : [ 0.0 ],
+						"notchFilter1WidthSlider" : [ 3.195489 ],
 						"peakToggle" : [ 0.0 ],
-						"preampRadiogroup" : [ 2 ],
+						"preampRadiogroup" : [ 4 ],
 						"pstorageMasterResetButton" : [ 0.0 ],
 						"pstoragePresetNumber" : [ 1 ],
 						"pstorageRecallButton" : [ 0.0 ],
@@ -74468,7 +74468,7 @@
 					}
 ,
 					"text" : "pattrstorage @autorestore 0",
-					"varname" : "u893001724"
+					"varname" : "u978001715"
 				}
 
 			}
@@ -74524,7 +74524,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -75185,7 +75185,7 @@
 			}
 , 			{
 				"box" : 				{
-					"bgcolor" : [ 0.87, 0.87, 0.87, 1.0 ],
+					"bgcolor" : [ 0.28, 0.92, 0.64, 1.0 ],
 					"fontname" : "Arial",
 					"fontsize" : 20.0,
 					"id" : "obj-165",
@@ -75194,7 +75194,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 341.0, 185.0, 142.0, 27.0 ],
-					"text" : "standby ok"
+					"text" : "soundcard ok"
 				}
 
 			}
@@ -75379,7 +75379,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -76095,7 +76095,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -77443,7 +77443,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -78653,7 +78653,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -82708,7 +82708,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 153.0, 179.0, 18.0, 130.0 ],
 					"size" : 8,
-					"value" : 2,
+					"value" : 4,
 					"varname" : "preampRadiogroup"
 				}
 
@@ -82997,7 +82997,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 92.0, 319.0, 18.0, 66.0 ],
 					"size" : 4,
-					"value" : 0,
+					"value" : 1,
 					"varname" : "modeSelectRadiogroup"
 				}
 
@@ -83059,7 +83059,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -84056,7 +84056,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -84080,6 +84080,21 @@
 						"digest" : "",
 						"tags" : "",
 						"boxes" : [ 							{
+								"box" : 								{
+									"fontname" : "Arial",
+									"fontsize" : 12.0,
+									"frgb" : 0.0,
+									"id" : "obj-9",
+									"linecount" : 2,
+									"maxclass" : "comment",
+									"numinlets" : 1,
+									"numoutlets" : 0,
+									"patching_rect" : [ 565.0, 273.0, 150.0, 33.0 ],
+									"text" : "adding iq.wav for sdr testing 9/1/2014"
+								}
+
+							}
+, 							{
 								"box" : 								{
 									"fontname" : "Arial",
 									"fontsize" : 12.0,
@@ -84144,7 +84159,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 423.0, 170.0, 327.0, 72.0 ],
-									"text" : "clear, append defaultAudioInput, append soft66lc2, append funCube, append funCubePro+, append rtlsdr, append 10meter96.wav, append 6meter96.wav, append am96.wav, append ao4096.wav, append fmWeather96b.wav, append numbers96.wav"
+									"text" : "clear, append defaultAudioInput, append soft66lc2, append funCube, append funCubePro+, append rtlsdr, append 10meter96.wav, append 6meter96.wav, append am96.wav, append ao4096.wav, append fmWeather96b.wav, append numbers96.wav, append iq.wav"
 								}
 
 							}
@@ -84326,7 +84341,7 @@
 					"fontname" : "Arial",
 					"fontsize" : 15.0,
 					"id" : "obj-19",
-					"items" : [ "defaultAudioInput", ",", "soft66lc2", ",", "funCube", ",", "funCubePro+", ",", "rtlsdr", ",", "10meter96.wav", ",", "6meter96.wav", ",", "am96.wav", ",", "ao4096.wav", ",", "fmWeather96b.wav", ",", "numbers96.wav" ],
+					"items" : [ "defaultAudioInput", ",", "soft66lc2", ",", "funCube", ",", "funCubePro+", ",", "rtlsdr", ",", "10meter96.wav", ",", "6meter96.wav", ",", "am96.wav", ",", "ao4096.wav", ",", "fmWeather96b.wav", ",", "numbers96.wav", ",", "iq.wav" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -84403,7 +84418,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -84617,7 +84632,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -85078,7 +85093,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -86099,7 +86114,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -86497,7 +86512,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -87392,7 +87407,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -88744,7 +88759,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -88781,7 +88796,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -89111,7 +89126,7 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 7,
+															"revision" : 9,
 															"architecture" : "x86"
 														}
 ,
@@ -90246,7 +90261,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -92250,7 +92265,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
+							"revision" : 9,
 							"architecture" : "x86"
 						}
 ,
@@ -92302,7 +92317,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -93048,7 +93063,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 7,
+											"revision" : 9,
 											"architecture" : "x86"
 										}
 ,
@@ -95129,239 +95144,239 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-207" : [ "af gain", "af gain", 0 ],
-			"obj-18" : [ "live.button[4]", "live.button", 0 ],
-			"obj-99" : [ "live.toggle[6]", "live.toggle[4]", 0 ],
-			"obj-140::obj-63" : [ "live.button[17]", "live.button[17]", 0 ],
-			"obj-48" : [ "live.toggle[12]", "live.toggle[11]", 0 ],
 			"obj-159" : [ "live.button[5]", "live.button", 0 ],
-			"obj-4" : [ "live.button[19]", "live.button[11]", 0 ],
-			"obj-31" : [ "live.toggle[4]", "live.toggle[4]", 0 ],
-			"obj-59" : [ "live.button[10]", "live.button[10]", 0 ],
-			"obj-140::obj-73" : [ "live.button[18]", "live.button[18]", 0 ],
-			"obj-160::obj-89" : [ "live.button[9]", "live.button[6]", 0 ],
-			"obj-102" : [ "live.toggle[11]", "live.toggle[11]", 0 ],
-			"obj-160::obj-88" : [ "live.button[8]", "live.button[6]", 0 ],
-			"obj-154::obj-18" : [ "live.button", "live.button", 0 ],
-			"obj-155" : [ "live.button[12]", "live.button[12]", 0 ],
-			"obj-46" : [ "live.button[11]", "live.button[11]", 0 ],
-			"obj-30" : [ "live.toggle[2]", "live.toggle", 0 ],
-			"obj-10" : [ "live.toggle[13]", "live.toggle[13]", 0 ],
-			"obj-2" : [ "live.toggle[1]", "live.toggle", 0 ],
-			"obj-24::obj-10" : [ "live.button[14]", "live.button[14]", 0 ],
-			"obj-23" : [ "live.toggle[14]", "live.toggle", 0 ],
-			"obj-160::obj-85" : [ "live.button[6]", "live.button[6]", 0 ],
-			"obj-162" : [ "live.button[13]", "live.button[13]", 0 ],
-			"obj-160::obj-86" : [ "live.button[7]", "live.button[6]", 0 ],
-			"obj-200" : [ "live.toggle", "live.toggle", 0 ],
-			"obj-226" : [ "live.toggle[9]", "live.toggle[9]", 0 ],
-			"obj-24::obj-13" : [ "live.button[15]", "live.button[15]", 0 ],
 			"obj-124" : [ "live.toggle[8]", "live.toggle", 0 ],
+			"obj-155" : [ "live.button[12]", "live.button[12]", 0 ],
+			"obj-160::obj-86" : [ "live.button[7]", "live.button[6]", 0 ],
 			"obj-54::obj-31" : [ "live.toggle[5]", "live.toggle[4]", 0 ],
-			"obj-24::obj-29" : [ "live.button[16]", "live.button[16]", 0 ],
+			"obj-10" : [ "live.toggle[13]", "live.toggle[13]", 0 ],
+			"obj-31" : [ "live.toggle[4]", "live.toggle[4]", 0 ],
+			"obj-162" : [ "live.button[13]", "live.button[13]", 0 ],
+			"obj-154::obj-18" : [ "live.button", "live.button", 0 ],
+			"obj-207" : [ "af gain", "af gain", 0 ],
+			"obj-140::obj-63" : [ "live.button[17]", "live.button[17]", 0 ],
+			"obj-160::obj-85" : [ "live.button[6]", "live.button[6]", 0 ],
+			"obj-99" : [ "live.toggle[6]", "live.toggle[4]", 0 ],
+			"obj-160::obj-88" : [ "live.button[8]", "live.button[6]", 0 ],
+			"obj-45" : [ "live.toggle[15]", "live.toggle", 0 ],
+			"obj-200" : [ "live.toggle", "live.toggle", 0 ],
+			"obj-46" : [ "live.button[11]", "live.button[11]", 0 ],
 			"obj-208" : [ "live.gain~[1]", "rf gain", 0 ],
-			"obj-45" : [ "live.toggle[15]", "live.toggle", 0 ]
+			"obj-140::obj-73" : [ "live.button[18]", "live.button[18]", 0 ],
+			"obj-24::obj-10" : [ "live.button[14]", "live.button[14]", 0 ],
+			"obj-160::obj-89" : [ "live.button[9]", "live.button[6]", 0 ],
+			"obj-30" : [ "live.toggle[2]", "live.toggle", 0 ],
+			"obj-2" : [ "live.toggle[1]", "live.toggle", 0 ],
+			"obj-4" : [ "live.button[19]", "live.button[11]", 0 ],
+			"obj-102" : [ "live.toggle[11]", "live.toggle[11]", 0 ],
+			"obj-24::obj-13" : [ "live.button[15]", "live.button[15]", 0 ],
+			"obj-23" : [ "live.toggle[14]", "live.toggle", 0 ],
+			"obj-18" : [ "live.button[4]", "live.button", 0 ],
+			"obj-226" : [ "live.toggle[9]", "live.toggle[9]", 0 ],
+			"obj-59" : [ "live.button[10]", "live.button[10]", 0 ],
+			"obj-48" : [ "live.toggle[12]", "live.toggle[11]", 0 ],
+			"obj-24::obj-29" : [ "live.button[16]", "live.button[16]", 0 ]
 		}
 ,
 		"dependency_cache" : [ 			{
 				"name" : "fmdemod_b8~.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "highshelf1.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "highpass1.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "agc_rf.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "freqtable.txt",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "makebang.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "maxsdr_note.txt",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "maxsdr_cc.txt",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "maxsdr_note_osc.txt",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "maxsdr_cc_osc.txt",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "touchOSC_main_colors.txt",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "formatOSC.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "transmod.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "modulators.txt",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "transmodtype.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "modtypes.txt",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "transingate.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "ingate.txt",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "mod_engine_e.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "mod_router_e.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "mod_fb_router.pat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "maxb",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "mod_router_d.pat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "maxb",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "rxpanel3.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "panel3.js",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "iq_hpflpf2.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "agc_af.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "notch_filter_engine.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "audioSettings.maxpat",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "touch_osc_config.txt",
-				"bootpath" : "/Users/tkzic/maxsdr6",
+				"bootpath" : "/Users/tkzic/maxradio",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
