@@ -1,12 +1,21 @@
 README.md 
 maxradio: Max/MSP SDR project and tutorials
-Jan 23, 2015
+Jan 26, 2021
 http://zerokidz.com/radio
 local: maxradio
 
 #### email: tkzic@megalink.net
 
 ----------------------------------
+
+This repository is now officially deprecated. You can probably use it with Max6 and Operating systems from before 2016.
+But there will be no further updates or repairs.
+If you have trouble loading any of the patches, try renaming or deleting all of the .mxe and .mxo files. These are Max externals
+with outdated architecture.
+
+A new repository: max8radio will be available soon
+
+-------------------------------------
 
 (yet another) Interim upgrade of Mac OS Max version.
 
